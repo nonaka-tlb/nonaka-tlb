@@ -1,4 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonaka-tlb&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonaka-tlb)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nonaka-tlb&count_private=true&show_icons=true&theme=great-gatsby" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&theme=great-gatsby" />
+</a>
